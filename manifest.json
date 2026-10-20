@@ -1,0 +1,13 @@
+{
+  "name": "TepaStore",
+  "short_name": "TepaStore",
+  "description": "TepaStore - Аналог Google Play! Вы можете скачать игры и программы с любимыми героями",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./images/logo.png",
+      "sizes": "192x192"
+    }
+  ]
+}
